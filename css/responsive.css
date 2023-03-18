@@ -1,0 +1,519 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .nav-item a {
+        color: #FFFFFF !important;
+        font-size: 16px;
+        font-weight: 500;
+        padding-left: 10px !important;
+    }
+    .hero-item h1 {
+        font-weight: 700;
+        font-size: 60px;
+    }
+    .hero-item h3 {
+        font-weight: 700;
+        font-size: 40px;
+        margin-top: 10px;
+    }
+    .hero-item a {
+        font-weight: 700;
+        font-size: 22px;
+        padding: 20px 50px;
+        margin-top: 20px;
+    }
+
+    .whychooseus-area {
+        background: url(img/chooseusbg.png) no-repeat;
+        background-position: 100% 100% ;
+        background-size: cover;
+    }
+    .believe-area {
+        top: 50px;
+    }
+    .believe-item {
+        max-width: 600px;
+        padding-top:30px;
+        padding-left:30px;
+        padding-bottom: 30px;
+        padding-right: 10px;
+        background-color:#3F93CA;
+        margin-top: 183px;
+        margin-bottom: 86px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-brand img {
+        width: 90%;
+    }
+    .nav-item a {
+        padding-bottom: 10px !important;
+        padding-left: 0 !important;
+    }
+
+    .hero-item h1 {
+        font-weight: 700;
+        font-size: 50px;
+    }
+    .hero-item h3 {
+        font-weight: 700;
+        font-size: 35px;
+        margin-top: 10px;
+    }
+    .hero-item a {
+        font-weight: 700;
+        font-size: 22px;
+        padding: 20px 50px;
+        margin-top: 20px;
+    }
+    .hero-item {
+        margin-top: 200px;
+        margin-bottom: 100px;
+    }
+
+    .aboutus-area {
+        padding: 25px 0;
+    }
+    .about-item h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .about-item p {
+        color: #121212;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .about-img {
+        text-align: left;
+    }
+    .whychooseus-area {
+        background-position: -10% 100%;
+    }
+    .chooseus-item h2 {
+        font-size: 25px;
+    }
+    .chose-inner-text h4 {
+        font-size: 18px;
+    }
+    .choose-inner {
+        margin-bottom: 10px;
+    }
+    .chooseus-item {
+        padding-bottom: 15px;
+    }
+    .main-believe-area {
+        width: 100%;
+        position: relative;
+        min-height: 700px;
+    }
+    .believe-area {
+        width: 100%;
+        background-size: cover;
+        position: absolute;
+        top:50px;
+    }
+    .believe-item {
+        padding-top:30px;
+        padding-left:38px;
+        padding-bottom: 60px;
+        padding-right: 50px;
+        background-color:#3F93CA;
+        margin-top: 140px;
+        margin-bottom: 155px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .believe-item h2 {
+        font-size: 40px;
+    }
+    .believe-item p {
+        font-size: 16px;
+    }
+    .services-item {
+        width: 100%;
+    }
+    .services-area {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .services-item h3 {
+        font-weight: 500;
+        color:#FFFFFF ;
+        font-size: 35px;
+    }
+    .services-item p {
+        font-size: 20px;
+        margin-top: 27px;
+        line-height: 35px;
+    }
+    .services-item a {
+        margin-top: 10px;
+        padding: 15px 30px;
+        font-size: 18px;
+    }
+    .footer-text {
+        width: fit-content;
+        margin-left: 0;
+        margin-bottom: 35px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+    .navbar-brand img {
+        width: 80%;
+    }
+    .nav-item a {
+        padding-bottom: 10px !important;
+        padding-left: 0 !important;
+    }
+
+    .hero-item h1 {
+        font-weight: 600;
+        font-size: 40px;
+    }
+    .hero-item h3 {
+        font-weight: 600;
+        font-size: 25px;
+        margin-top: 10px;
+    }
+    .hero-item a {
+        font-weight: 600;
+        font-size: 18px;
+        padding: 18px 40px;
+        margin-top: 15px;
+    }
+    .hero-item {
+        margin-top: 150px;
+        margin-bottom: 50px;
+    }
+
+
+    .aboutus-area {
+        padding: 25px 0;
+    }
+    .about-item h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .about-item p {
+        color: #121212;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .about-img {
+        text-align: left;
+    }
+    .whychooseus-area {
+        background-position: -10% 100%;
+    }
+    .chooseus-item h2 {
+        font-size: 25px;
+    }
+    .chose-inner-text h4 {
+        font-size: 18px;
+    }
+    .choose-inner {
+        margin-bottom: 10px;
+    }
+    .chooseus-item {
+        padding-bottom: 15px;
+    }
+    .main-believe-area {
+        width: 100%;
+        position: relative;
+        min-height: 700px;
+    }
+    .believe-area {
+        width: 100%;
+        background-size: cover;
+        position: absolute;
+        top:50px;
+    }
+    .believe-item {
+        padding-top:30px;
+        padding-left:38px;
+        padding-bottom: 60px;
+        padding-right: 50px;
+        background-color:#3F93CA;
+        margin-top: 140px;
+        margin-bottom: 155px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .believe-item h2 {
+        font-size: 30px;
+    }
+    .believe-item p {
+        font-size: 16px;
+        margin-top: 0;
+    }
+    .services-item {
+        width: 100%;
+    }
+    .services-area {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .services-item h3 {
+        font-weight: 500;
+        color:#FFFFFF ;
+        font-size: 35px;
+    }
+    .services-item p {
+        font-size: 20px;
+        margin-top: 27px;
+        line-height: 35px;
+    }
+    .services-item a {
+        margin-top: 10px;
+        padding: 15px 30px;
+        font-size: 18px;
+    }
+    .footer-text {
+        width: fit-content;
+        margin-left: 0;
+        margin-bottom: 35px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+    .navbar-brand img {
+        width: 50%;
+    }
+    .nav-item a {
+        padding-bottom: 0px !important;
+        padding-left: 0 !important;
+        font-size: 14px;
+    }
+    .navbar-brand {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+    .nav-con {
+        flex-wrap: nowrap;
+    }
+    .nav-con button {
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 10px;
+}
+    .hero-item h1 {
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .hero-item h3 {
+        font-weight: 600;
+        font-size: 20px;
+        margin-top: 8px;
+    }
+    .hero-item a {
+        font-weight: 600;
+        font-size: 14px;
+        padding: 15px 30px;
+        margin-top: 10px;
+    }
+    .hero-item {
+        margin-top: 100px;
+        margin-bottom: 30px;
+    }
+
+
+    .aboutus-area {
+        padding: 25px 0;
+    }
+    .about-item h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .about-item p {
+        color: #121212;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .about-img {
+        text-align: left;
+    }
+    .whychooseus-area {
+        background-position: -10% 100%;
+    }
+    .chooseus-item  {
+        margin-top:100px;
+        padding: 15px;
+    }
+    .chooseus-item h2 {
+        font-size: 25px;
+    }
+    .chose-inner-text h4 {
+        font-size: 18px;
+    }
+    .choose-inner {
+        margin-bottom: 10px;
+    }
+    .chooseus-item {
+        padding-bottom: 15px;
+    }
+    .main-believe-area {
+        width: 100%;
+        position: relative;
+        min-height: 700px;
+    }
+    .believe-area {
+        width: 100%;
+        background-size: cover;
+        position: absolute;
+        top:50px;
+    }
+    .believe-item {
+        padding: 80px 20px;
+        background-color:#3F93CA;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    .believe-item h2 {
+        font-size: 30px;
+    }
+    .believe-item p {
+        font-size: 16px;
+    }
+    .services-item {
+        width: 100%;
+    }
+    .services-area {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .services-item h3 {
+        font-weight: 500;
+        color:#FFFFFF ;
+        font-size: 25px;
+    }
+    .services-item p {
+        font-size: 18px;
+        margin-top: 27px;
+        line-height: 35px;
+    }
+    .services-item a {
+        margin-top: 10px;
+        padding: 15px 30px;
+        font-size: 16px;
+    }
+    .footer-text {
+        width: fit-content;
+        margin-left: 0;
+        margin-bottom: 35px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
